@@ -6,13 +6,13 @@
 - 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
+    git clone https://github.com/senkeshkhan/Invoice_demo.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd yourproject
+    cd Invoice_demo
     ```
 
 3. Install dependencies:
